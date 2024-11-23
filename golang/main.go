@@ -1,5 +1,5 @@
 package main
 
-func (){
+func main(){
     fmt.println("HELLO WORLD")
 }
